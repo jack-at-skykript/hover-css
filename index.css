@@ -1,0 +1,14 @@
+p {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+}
+a {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+  color: #46a2e3;
+  text-decoration: none;
+  transition: 0.5s;
+}
+a:hover {
+  color: #343c42;
+}
